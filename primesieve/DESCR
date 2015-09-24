@@ -1,0 +1,4 @@
+Primesieve is a free software program and C/C++ library that
+generates primes using a highly optimized sieve ofEratosthenes
+implementation.  Primesieve can generate primes and prime
+k-tuplets up to 2^64.
